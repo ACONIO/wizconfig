@@ -1,10 +1,10 @@
-# magiconfig
+# wizconfig
 An easy way to validate if your config's completeness
 
 ## Install
 
 ```zsh
-pip install git+https://github.com/ACONIO/magiconfig.git
+pip install git+https://github.com/ACONIO/wizconfig
 ```
 
 ## Example

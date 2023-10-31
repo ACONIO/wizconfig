@@ -7,7 +7,7 @@ class InvalidConfigException(ValueError):
     pass
 
 
-class MagicConfig(ABC):
+class WizConfig(ABC):
     def __init__(self):
         """Validate config values.
 
