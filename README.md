@@ -4,7 +4,7 @@ An easy way to validate if your config's completeness
 ## Install
 
 ```zsh
-pip install git+https://github.com/ACONIO/wizconfig
+pip install wizconfig
 ```
 
 ## Example
