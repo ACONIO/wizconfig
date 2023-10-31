@@ -1,5 +1,5 @@
 # wizconfig
-An easy way to validate if your config's completeness
+An incomplete configuration shall not pass.
 
 ## Install
 
