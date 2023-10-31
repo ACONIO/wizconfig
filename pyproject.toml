@@ -1,0 +1,9 @@
+[project]
+name = "magiconfig"
+authors = [
+    {name = "Matthias Reumann", email = "matthias.reumann@tum.de"},
+]
+description = "An easy way to validate if your config's completeness"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
