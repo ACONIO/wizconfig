@@ -1,6 +1,8 @@
 # wizconfig
 An incomplete configuration shall not pass.
 
+![You_Shall_Not_Pass!_0-1_screenshot](https://github.com/ACONIO/wizconfig/assets/29633518/702cfbd6-de4f-4d40-9062-06cf8d8c8c55)
+
 ## Install
 
 ```zsh
